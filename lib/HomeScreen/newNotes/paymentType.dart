@@ -124,7 +124,7 @@ class _State extends State<PaymentView> {
             myChips("AXIS"),
             myChips("ICIC"),
             myChips("Paytm"),
-            myChips("PhonePee"),
+            myChips("PhonePe"),
             myChips("CBI"),
             myChips("PNB"),
             myChips("GooglePay"),
