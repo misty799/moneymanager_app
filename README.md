@@ -1,4 +1,4 @@
-# money_management_app
+# moneymanager_app
 
 A new Flutter project.
 ## App Screenshots
