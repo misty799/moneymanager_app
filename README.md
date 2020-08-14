@@ -1,7 +1,7 @@
 # money_management_app
 
 A new Flutter project.
-![Screenshot_20200814-203001](https://user-images.githubusercontent.com/69633823/90268622-eb17ce80-de74-11ea-9400-b0c1a179d290.jpeg=150x)
+<img src="https://user-images.githubusercontent.com/69633823/90268622-eb17ce80-de74-11ea-9400-b0c1a179d290.jpeg" width="50">
 ![Screenshot_20200814-203007](https://user-images.githubusercontent.com/69633823/90268635-f2d77300-de74-11ea-8ba9-c5e68eccf671.jpeg)
 ![Screenshot_20200814-204816](https://user-images.githubusercontent.com/69633823/90268691-097dca00-de75-11ea-80e0-a0c9b64ec8d0.jpeg)
 ![Screenshot_20200814-204707](https://user-images.githubusercontent.com/69633823/90268700-0c78ba80-de75-11ea-8ef4-505e43be5b8e.jpeg)
