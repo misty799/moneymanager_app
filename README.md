@@ -1,7 +1,6 @@
 # money_management_app
 
 A new Flutter project.
-## Screenshots of moneymanager_app
 <table>
   <tr>
 <img src="https://user-images.githubusercontent.com/69633823/90268622-eb17ce80-de74-11ea-9400-b0c1a179d290.jpeg" width="150" height="300"><img src="https://user-images.githubusercontent.com/69633823/90268635-f2d77300-de74-11ea-8ba9-c5e68eccf671.jpeg" width="150" height="300"></tr>
