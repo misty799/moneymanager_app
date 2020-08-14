@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35639375815",
+    "firebase_url": "https://moneyapp-f2bfa.firebaseio.com",
+    "project_id": "moneyapp-f2bfa",
+    "storage_bucket": "moneyapp-f2bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35639375815:android:40468f069ac3414f648be2",
+        "android_client_info": {
+          "package_name": "com.example.money_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35639375815-cirrm11i0ltm11uil00ocb7sjfp4290o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uQ5UiMY4fUTmujUOjpE9HzNtmJM9KsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35639375815-cirrm11i0ltm11uil00ocb7sjfp4290o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
